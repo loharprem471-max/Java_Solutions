@@ -1,13 +1,15 @@
-\#Replace Odd Num by zero
+\#Non Repeating Number (^)
 
 \### 📌 Problem Statement
 
-Write a Java Program to create a Array and replace the array Odd element by zero 
-
+Write a Java Program to create a Array and find the non repeating element by using XOR operator (^)
 \### 📥 Sample Output
 
 ```text
-Array Before replacing:
-1 2 3 4 5 6 7 8 9
-Array After Replacing :
-0 2 0 4 0 6 0 8 0
+
+1 2 3 2 1 3 11 4 1 4
+ non-repeating element is :11
+
+Array Elements:
+1 2 3 2 1 3 1008 4 1 4
+ non-repeating element is :1008
